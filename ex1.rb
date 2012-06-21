@@ -1,5 +1,5 @@
 # Learning Ruby the Hard Way 
-# Courtesy of @zedshaw 
+# ... with the help of @zedshaw 
 # Exercise 1: A Good First Program
 
 puts "Hello World!"
