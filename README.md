@@ -1,2 +1,1 @@
-ruby-thw
-========
+I'm Learning Ruby the Hard Way! With the help of @zedshaw.
